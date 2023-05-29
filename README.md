@@ -1,0 +1,2 @@
+# XMindRepo
+ My daily thoughts 👏
