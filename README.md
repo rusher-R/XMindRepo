@@ -1,5 +1,16 @@
 # XMindRepo
  My daily thoughts 👏
 
-![alt text]([http://url/to/img.png](https://github.com/rusher-R/XMindRepo/blob/282b6cdc6d7141ce31b24836bc4619d509f93360/screenshots/crypto.png))
+
+![crypto](./screenshots/crypto.png)
+
+![layerX](./screenshots/layerX.png)
+
+![solidity_expert](./screenshots/solidity_expert.png)
+
+![solidity](./screenshots/solidity.png)
+
+![solidity_pro](./screenshots/solidity_pro.png)
+
+![crypto_wallet](./screenshots/crypto_wallet.png)
 
