@@ -8,9 +8,7 @@
 
 ![solidity_expert](./screenshots/solidity_expert.png)
 
-![solidity](./screenshots/solidity.png)
-
-![solidity_pro](./screenshots/solidity_pro.png)
+![ERC721](./screenshots/erc721.png)
 
 ![crypto_wallet](./screenshots/crypto_wallet.png)
 
